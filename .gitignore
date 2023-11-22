@@ -1,0 +1,8 @@
+/venv
+venv/
+
+.convert_pic.py
+convert_pic.py
+.idea/
+.idea
+keras_venv/
